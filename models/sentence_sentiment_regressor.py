@@ -4,6 +4,7 @@ import datetime
 
 import tensorflow as tf
 
+from models import Model
 from utils import ops
 from utils import losses
 from utils import distances
